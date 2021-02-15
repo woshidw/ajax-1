@@ -11,3 +11,4 @@
 
 `node server.js 8888`启动
 
+### 转到localhost:8888/index.html
